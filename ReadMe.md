@@ -12,7 +12,7 @@ This repository acts as a database / archive of all previously run experiments i
 3. **Helpful documentation when writing a manuscript:** Sometimes, the timeline from coding up an experiment, to collecting data, to analysing data, to finally writing up a manuscript can be quite lengthy! Considering this, having clear and concise documentation detailing how you went about things will be helpful to you and other members involved in the research.
 
 ## What is NOT included in this repository?
-- Participant data
+- Participant data (participant data is not to be stored on GitHub)
 - Analysis scripts
 - Results
 
