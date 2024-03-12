@@ -9,7 +9,7 @@ This repository acts as a database / archive of all previously run experiments i
    - Some added benefits of this accountability measure include:
          1. If you end up returning to a project at a later date, you will be able to recall how you went about things!
          2. To meet this accoutability criteria, you may end up being more strategic and clear in how you go about writing code (which may actually save                you time! :)
-3. **Helpful documentation when writing a manuscript:** Sometimes, the timeline from coding up an experiment, to collecting data, to analysing data, to finally writing up a manuscript can be quite lengthy! Having clear and concise documentation detailing how you went about things will be helpful to you and other members involved in the research!
+3. **Helpful documentation when writing a manuscript:** Sometimes, the timeline from coding up an experiment, to collecting data, to analysing data, to finally writing up a manuscript can be quite lengthy! Considering this, having clear and concise documentation detailing how you went about things will be helpful to you and other members involved in the research.
 
 ## What is NOT included in this repository?
 - Participant data
