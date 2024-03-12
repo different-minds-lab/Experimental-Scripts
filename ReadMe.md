@@ -28,3 +28,7 @@ This repository acts as a database / archive of all previously run experiments i
 ## When should I add my experiment's materials to this repository?
 - After data collection is complete and the majority of your analyses have been run.
    - If you pre-registered your study on OSF, that would also be a good time to add your code to this repository.
+
+## How can I add my code to this repository?
+- Each experiment will have its own _submodule_ in this repository. If you are not familiar with submodules, please see this link: https://gist.github.com/gitaarik/8735255
+- Step-by-step instructions on how to create a submodule and add your content to it are coming soon!
