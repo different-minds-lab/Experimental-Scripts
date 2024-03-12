@@ -17,7 +17,7 @@ This repository acts as a database / archive of all previously run experiments i
 - Results
 
 ## What IS included in this repository?
-- **Arguable most importantly:** A ReadMe file to orient lab members to the repository. This ReadMe file should detail the general procedures of the experiment: stages of the experiment, tasks completed by participants, and general trial constraints used.
+- **Arguably most importantly:** A ReadMe file to orient lab members to the repository. This ReadMe file should detail the general procedures of the experiment: stages of the experiment, tasks completed by participants, and general trial constraints used.
 - All content needed to run the experiment that was conducted in the lab.
 - Examples of content that meet these criteria are included below for reference:
    - Stimuli
