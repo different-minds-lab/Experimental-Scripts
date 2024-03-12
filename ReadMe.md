@@ -27,4 +27,4 @@ This repository acts as a database / archive of all previously run experiments i
 
 ## When should I add my experiment's materials to this repository?
 - After data collection is complete and the majority of your analyses have been run.
-   - If you pre-registered your study on OSF, that would also be a good time to add your code to this repo)
+   - If you pre-registered your study on OSF, that would also be a good time to add your code to this repository.
