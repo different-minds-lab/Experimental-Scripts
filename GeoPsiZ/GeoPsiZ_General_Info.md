@@ -6,6 +6,8 @@
 
 **Where was it conducted?** University of Victoria
 
+**If I have questions, who should I contact about this experiment?** Anna Lawrance (annalawrance@uvic.ca). Please make sure to carefully read through this documentation before contacting them.
+
 **Who wrote the experimental scripts?** Anna Lawrance wrote the experimental scripts, building off of a template of PsiZ Collect that Amy vanWell created.
 
 **Is there an OSF page associated with this experiment?** Yes. It can be accessed via this link: https://osf.io/sutn2/
