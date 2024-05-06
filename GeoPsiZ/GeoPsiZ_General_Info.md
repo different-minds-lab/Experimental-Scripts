@@ -17,8 +17,11 @@ Geo PsiZ was a psychovisual experiment that followed undergraduate students thro
 
 **Through this work, we addressed three key questions:** 1) How do categories for rock knowledge form? 2) How do categories restructure following conceptual and perceptual training? and 3) Is the trajectory of this category restructuring indicative of academic performance?
 
-Shifts in category structure were assessed using PsiZ, a machine learning package that generates a multi-dimensional category representation (i.e., psychological embedding) based on the participant’s judgments of image similarity. Category structure was inferred at two time points: at the course outset and later, after participants engaged with relevant course content. Our analysis encompassed both perceptual and conceptual dimensions. Participants provided similarity judgments on images of rocks to assess visuoperceptual category structure, while judgments on rock type labels assessed conceptual category structure.
+Shifts in category structure were assessed using PsiZ, a machine learning package that generates a multi-dimensional category representation (i.e., psychological embedding) based on the participant’s judgments of image similarity. Category structure was inferred at two-time-points: at the course outset and later, after participants engaged with relevant course content. Our analysis encompassed both perceptual and conceptual dimensions. Participants provided similarity judgments on images of rocks to assess visuoperceptual category structure, while judgments on rock type labels assessed conceptual category structure.
 
+## Timeline of the experiment
+Participants completed two data collection sessions that occurred ~2.5 months apart.
+At each time point, they completed trials in the following order: welcome/instructions HTML screen, intro survey, image similarity ranking trials, survey questions on image trial strategies, label similarity ranking trials, survey questions on label trial strategies, general survey questions, debrief screen.
 
 ## Components of the experiment
 ### 1) Similarity Ranking Trials
