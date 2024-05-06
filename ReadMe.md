@@ -30,9 +30,12 @@ This repository acts as a database / archive of all previously run experiments i
    - If you pre-registered your study on OSF, that would also be a good time to add your code to this repository.
 
 ## How can I add my code to this repository?
-- Each experiment will have its own _submodule_ in this repository. If you are not familiar with submodules, please see this link: https://gist.github.com/gitaarik/8735255
+- Each experiment will have its own _submodule_ in this repository. If you are not familiar with submodules, please review these two websites:
+   - https://gist.github.com/gitaarik/8735255
+   - https://www.atlassian.com/git/tutorials/git-submodule
+
 - Please read the instructions provided below ***very*** carefully.
-- 
+  
 **Step 1)**
   Open your computer's command line or terminal and navigate to an easily accessible folder (e.g., Desktop or Downloads)
   ```
