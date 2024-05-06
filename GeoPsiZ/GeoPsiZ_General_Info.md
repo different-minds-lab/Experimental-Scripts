@@ -21,6 +21,7 @@ Shifts in category structure were assessed using PsiZ, a machine learning packag
 
 ## Timeline of the experiment
 Participants completed two data collection sessions that occurred ~2.5 months apart.
+
 At each time point, they completed trials in the following order: welcome/instructions HTML screen, intro survey, image similarity ranking trials, survey questions on image trial strategies, label similarity ranking trials, survey questions on label trial strategies, general survey questions, debrief screen.
 
 ## Components of the experiment
