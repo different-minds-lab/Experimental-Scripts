@@ -72,3 +72,5 @@ This repository acts as a database / archive of all previously run experiments i
    git commit -m "insert push message here"
    git push
    ```
+**Step 8)**
+Upon confirming that your experiment's materials were successfully added to the submodule, you may delete the entire "Experimental-Scripts" folder from your computer. This way, you will free up space on your computer.
