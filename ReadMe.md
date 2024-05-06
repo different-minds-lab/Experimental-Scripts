@@ -63,13 +63,7 @@ This repository acts as a database / archive of all previously run experiments i
 
    
 **Step 7)**
-   Return to your terminal and navigate into the "Experimental-Scripts" folder if you are not already seated within it. Then, run the following commands.
-   
-   *7a)* Replace *name_of_experiment* with the name of your newly created submodule.
-   ```
-cd name_of_experiment
-```
-   *7b)* Push your code to the repository
+   Return to your terminal and navigate into the "Experimental-Scripts" folder if you are not already seated within it. Then, run the following commands. Replace "insert push message here" with "update name_of_experiment submodule".
    ```
    git add .
    git commit -m "insert push message here"
