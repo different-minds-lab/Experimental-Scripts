@@ -56,15 +56,20 @@ This repository acts as a database / archive of all previously run experiments i
    ```
 **Step 5)**
    Open up the "Experimental-Scripts" folder that you cloned using your preferred IDE (e.g., Visual Studio code). Copy and paste all of your experiment's materials to your newly generated subcomponent. This subcomponent should appear as a folder that is nested within the "Experimental-Scripts" folder.
+
+   
 **Step 6)**
    Double-check to ensure all of your documentation and scripts are present. 
+
+   
 **Step 7)**
    Return to your terminal and navigate into the "Experimental-Scripts" folder if you are not already seated within it. Then, run the following commands.
-   **7a)** Replace *name_of_experiment* with the name of your newly created submodule.
+   
+   *7a)* Replace *name_of_experiment* with the name of your newly created submodule.
    ```
 cd name_of_experiment
 ```
-   **7b)** Push your code to the repository
+   *7b)* Push your code to the repository
    ```
    git add .
    git commit -m "insert push message here"
