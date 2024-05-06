@@ -52,7 +52,7 @@ This repository acts as a database / archive of all previously run experiments i
 **Step 4)**
    Add your new submodule. Please use your experiment's name when adding your submodule. An example of how to add your submodule is provided below. NOTE! Replace "name_of_experiment" (listed as the last section of the command) with the name of your experiment.
    ```
-   git submodule add https://github.com/different-minds-lab/Experimental-Scripts Experimental-Scripts/name_of_experiment
+   git submodule add https://github.com/different-minds-lab/Experimental-Scripts name_of_experiment
    ```
 **Step 5)**
    Open up the "Experimental-Scripts" folder that you cloned using your preferred IDE (e.g., Visual Studio code). Copy and paste all of your experiment's materials to your newly generated subcomponent. This subcomponent should appear as a folder that is nested within the "Experimental-Scripts" folder.
