@@ -6,12 +6,12 @@
 
 **Where was it conducted?** University of Victoria
 
-**Who wrote the experimental scripts?** Anna Lawrance wrote the experimental scripts, building of a template of PsiZ Collect that Amy vanWell coded.
+**Who wrote the experimental scripts?** Anna Lawrance wrote the experimental scripts, building off of a template of PsiZ Collect that Amy vanWell created.
 
 **Is there an OSF page associated with this experiment?** Yes. It can be accessed via this link: https://osf.io/sutn2/
 
 **Brief synopsis of the experiment:**
-A psychovisual experiment that followed undergraduate students throughout a post-secondary level introductory geology course. Through the course, participants gained extensive conceptual knowledge and perceptual experience in rocks through both the lecture and lab components of the course. 
+Geo PsiZ was a psychovisual experiment that followed undergraduate students throughout a post-secondary level introductory geology course. Through the course, participants gained extensive conceptual knowledge and perceptual experience in rocks through both the lecture and lab components of the course. 
 
 **Through this work, we addressed three key questions:** 1) How do categories for rock knowledge form? 2) How do categories restructure following conceptual and perceptual training? and 3) Is the trajectory of this category restructuring indicative of academic performance?
 
@@ -55,7 +55,7 @@ We surveyed participants 1) general interest in geology, 2) past experience in g
 
 1. Download the submodule onto your computer.
 2. If you don't already have Node.js on your computer, install it from: [Download link](https://nodejs.org/en/download/)
-3. In terminal, navigate to the the GeoPsiZ folder that you downloaded, and run the command:
+3. In terminal, navigate to the GeoPsiZ folder that you downloaded, and run the command:
 
 ```
 npm install
