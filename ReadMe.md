@@ -34,11 +34,11 @@ This repository acts as a database / archive of all previously run experiments i
 - Please read the instructions provided below ***very*** carefully.
 - 
 **Step 1)**
-  Navigate to an easily accessible folder (e.g., Desktop or Downloads)
+  Open your computer's command line or terminal and navigate to an easily accessible folder (e.g., Desktop or Downloads)
   ```
   cd Desktop
   ```
-**Step 2)***
+**Step 2)**
   Clone the repository if you have not already done so. Use the command below to do so.
   ```
   git clone https://github.com/different-minds-lab/Experimental-Scripts
@@ -50,7 +50,23 @@ This repository acts as a database / archive of all previously run experiments i
    cd Experimental-Scripts
    ```
 **Step 4)**
-   Add your new submodule. Please use your experiment's name when adding your submodule. An example of how to add your submodule is provided below. (NOTE! Replace "name_of_experiment" with the name of your experiment.
+   Add your new submodule. Please use your experiment's name when adding your submodule. An example of how to add your submodule is provided below. NOTE! Replace "name_of_experiment" (listed as the last section of the command) with the name of your experiment.
    ```
    git submodule add https://github.com/different-minds-lab/Experimental-Scripts Experimental-Scripts/name_of_experiment
+   ```
+**Step 5)**
+   Open up the "Experimental-Scripts" folder that you cloned using your preferred IDE (e.g., Visual Studio code). Copy and paste all of your experiment's materials to your newly generated subcomponent. This subcomponent should appear as a folder that is nested within the "Experimental-Scripts" folder.
+**Step 6)**
+   Double-check to ensure all of your documentation and scripts are present. 
+**Step 7)**
+   Return to your terminal and navigate into the "Experimental-Scripts" folder if you are not already seated within it. Then, run the following commands.
+   **7a)** Replace *name_of_experiment* with the name of your newly created submodule.
+   ```
+cd name_of_experiment
+```
+   **7b)** Push your code to the repository
+   ```
+   git add .
+   git commit -m "insert push message here"
+   git push
    ```
