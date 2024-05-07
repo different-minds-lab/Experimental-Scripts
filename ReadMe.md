@@ -1,6 +1,5 @@
 # Different Minds Lab: Experimental Scripts Repository
 
-## What is this repository?
 This repository acts as a database / archive of all previously run experiments in the Different Minds Lab [https://onlineacademiccommunity.uvic.ca/differentmindslab/].
 
 ## Why does this repository exist?
