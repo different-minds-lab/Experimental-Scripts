@@ -40,36 +40,31 @@ This repository acts as a database / archive of all previously run experiments i
   ```
   cd Desktop
   ```
-**Step 2)**
-  Clone the repository if you have not already done so. Use the command below to do so.
+**Step 2a)**
+  Clone the repository if you have not already done so. Use the command below to do so. You will now have a folder called "Experimental-Scripts" on your Desktop. 
   ```
   git clone https://github.com/different-minds-lab/Experimental-Scripts
   ```
+**Step 2b)**
+Open the folder "Experimental-Scripts" (now located on your Desktop) through your computer's GUI, then move your experiment's folder into the "submodules" folder (nested within the "Experimental-Scripts" folder) that you cloned (make sure that the name of your experiment folder matches the name of the submodule you plan to create). For example, the name of the GeoPsiZ folder would be "GeoPsiZ" given that the name of the submodule will also be "GeoPsiZ".
 
 **Step 3)**
-   Navigate into the folder that you just cloned.
+   Now, once all file contents are transferred into the Experimental-Scripts/submodules folder, return to your terminal/command line. Navigate into the folder that you just cloned using the command provided below (note, before running the Step 4 command, make sure you're just in "Experimental-Scripts" in your terminal and not the "submodules" folder).
    ```
    cd Experimental-Scripts
    ```
 **Step 4)**
-   Add your new submodule. Please use your experiment's name when adding your submodule. An example of how to add your submodule is provided below. NOTE! Replace "name_of_experiment" (listed as the last section of the command) with the name of your experiment.
+   Now it is time to add your submodule contents to the git repository. Please use your experiment's name in the below command when adding your submodule. The command to add your submodule is provided below. NOTE! Replace "name_of_experiment" (listed as the last section of the command) with the name of your experiment (e.g., "GeoPsiZ").
    ```
-   git submodule add https://github.com/different-minds-lab/Experimental-Scripts name_of_experiment
+   git submodule add https://github.com/different-minds-lab/Experimental-Scripts/submodules name_of_experiment
    ```
+
 **Step 5)**
-   Open up the "Experimental-Scripts" folder that you cloned using your preferred IDE (e.g., Visual Studio code). Copy and paste all of your experiment's materials to your newly generated subcomponent. This subcomponent should appear as a folder that is nested within the "Experimental-Scripts" folder.
-
-   
-**Step 6)**
-   Double-check to ensure all of your documentation and scripts are present. 
-
-   
-**Step 7)**
-   Return to your terminal and navigate into the "Experimental-Scripts" folder if you are not already seated within it. Then, run the following commands. Replace "insert push message here" with "update name_of_experiment submodule".
+   In your terminal/command line, run the following commands (make sure you are in "Experimental-Scripts"! Replace "insert push message here" with "update name_of_experiment submodule". For example "update GeoPsiZ submodule".
    ```
    git add .
    git commit -m "insert push message here"
    git push
    ```
 **Step 8)**
-Upon confirming that your experiment's materials were successfully added to the submodule, you may delete the entire "Experimental-Scripts" folder from your computer. This way, you will free up space on your computer.
+Upon confirming that your experiment's materials were successfully added to the submodule (i.e., by refreshing the Git Hub page online and seeing your git message in the commit history), you may delete the entire "Experimental-Scripts" folder from your computer. This way, you will free up space on your computer.
