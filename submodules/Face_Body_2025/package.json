@@ -1,0 +1,28 @@
+{
+    "name": "dataserver",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "experiment": "ws"
+    },
+    "author": "Anna Lawrance & Amy vanWell",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.20.0",
+        "cors": "^2.8.5",
+        "local-web-server": "^5.4.0",
+        "lodash": "^4.17.21"
+    },
+    "devDependencies": {
+        "@babel/cli": "^7.13.0",
+        "@babel/core": "^7.13.8",
+        "@babel/eslint-parser": "^7.13.8",
+        "@babel/preset-env": "^7.13.8",
+        "babel-cli": "^6.26.0",
+        "eslint": "^7.21.0"
+    },
+    "browserslist": [
+        "last 10 chrome versions"
+    ]
+}
