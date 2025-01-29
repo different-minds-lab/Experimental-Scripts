@@ -1,3 +1,6 @@
 [submodule "GeoPsiZ"]
 	path = GeoPsiZ
 	url = https://github.com/different-minds-lab/Experimental-Scripts
+[submodule "Face_Body_2025"]
+	path = Face_Body_2025
+	url = https://github.com/different-minds-lab/Experimental-Scripts
